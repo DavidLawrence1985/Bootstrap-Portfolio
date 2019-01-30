@@ -1,0 +1,35 @@
+.heading {
+    background-color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.BorderB {
+    border-bottom: 2px solid #cccccc;
+}
+.greyText {
+    color:#777777;
+}
+.greyText a{
+    color:#777777;
+}
+
+.greyText a:hover {
+    color:#555555;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+ header {
+     border-bottom: 2px solid #cccccc;
+     background-color: #ffffff;
+     
+ }
+
+body {
+     background-image: url(../images/concrete.jpg);
+ }
