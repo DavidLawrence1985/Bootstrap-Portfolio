@@ -31,6 +31,10 @@ body {
      font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
  }
 
+.border-line nav li:not(:last-child) { 
+    border-right:solid 1px #cccccc;
+}
+
 
  .myFoot {
      background-color:#555555;
