@@ -37,6 +37,7 @@ body {
      border-top:3px solid #4aaaa5;
      height: 5rem;
 
+
  }
  .myBtn {
      background-color: #4aaaa5;
@@ -57,11 +58,15 @@ body {
     position: absolute;
     text-align: center;
     width: 100%;
+  }
 
 
 
 
-@media screen and (max-width: 576px){
-
-
+@media screen and (min-width: 980px){
+    footer{
+        position: fixed;
+        bottom: 0;
+    }
+    
 }
